@@ -16,7 +16,7 @@
             android:id="@+id/right_chat_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/black"
+            android:textColor="#FFFFFF"
             android:textSize="18sp" />
 
     </LinearLayout>
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="2dp"
-        android:textColor="#a9a9a9"
+        android:textColor="#FFFFFF"
         android:textSize="12sp" />
 
 </LinearLayout>
