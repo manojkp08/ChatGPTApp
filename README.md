@@ -26,6 +26,10 @@ To get started with ChatGPTApp, follow the steps below:
    }
    ```
 5. Build and run the application on an Android device or emulator.
+## Screenshots
+
+<img width="215" alt="image" src="https://github.com/manojkp08/ChatGPTApp/assets/122171992/c126eff8-afdf-4f7b-9d11-029783ff6f0c">
+<img width="216" alt="image" src="https://github.com/manojkp08/ChatGPTApp/assets/122171992/b5bb7e53-6896-4a4c-88e4-d0022af41185">
 
 ## Dependencies
 
